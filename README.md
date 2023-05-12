@@ -17,6 +17,7 @@ the reflex agent will get into action and solve the game using a hueristic funct
 
 # settings
 setting the gournd, framerate and number of time the game runs.
+
 -l --> will set the ground.
 
 -n --> set the number of time to repeat.
