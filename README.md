@@ -30,4 +30,9 @@ setting the gournd, framerate and number of time the game runs.
 
 to set the ground (map) go to layouts and see the list of options there.
 
+# AutoGrader
+running the auto grader will run a test on the code given from the open university to test all the hueristic functions in the code in a quick run.
+
+
+
 
