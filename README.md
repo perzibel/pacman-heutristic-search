@@ -1,22 +1,22 @@
 # pacman-heutristic-search
-this is the pacman game with a hueristic option to solve the game on auto.
+This is the pacman game with a hueristic option to solve the game on auto.
 
 # start
-to start the game make sure you have python 3.6 and above then simply input the command 
+To start the game make sure you have python 3.6 and above then simply input the command 
 
 python pacman.py 
 
-from the cmd at the pacman-hueristic-search folder.
+From the cmd at the pacman-hueristic-search folder.
 
 # use hueristic functions
 
-to use the hueristic function enter the following connamd:
+To use the hueristic function enter the following connamd:
 python pacman.py -p ReflexAgent
 
-the reflex agent will get into action and solve the game using a hueristic function.
+The reflex agent will get into action and solve the game using a hueristic function.
 
 # settings
-setting the gournd, framerate and number of time the game runs.
+Setting the gournds, framerate and number of time the game runs.
 
 -l --> will set the ground.
 
@@ -31,7 +31,7 @@ setting the gournd, framerate and number of time the game runs.
 to set the ground (map) go to layouts and see the list of options there.
 
 # AutoGrader
-running the auto grader will run a test on the code given from the open university to test all the hueristic functions in the code in a quick run.
+Running the auto grader will run a test on the code given from the open university to test all the hueristic functions in the code in a quick run.
 
 
 
