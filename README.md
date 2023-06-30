@@ -1,5 +1,5 @@
 # pacman-heutristic-search
-This is the pacman game with a hueristic option to solve the game on auto.
+The Auto Grader is designed to execute a comprehensive test on the provided code from the Open University. Its purpose is to assess all the heuristic functions present in the code efficiently and swiftly.
 
 # start
 To initiate the game, ensure that you have Python 3.6 or a more recent version installed. Next, input the following command in the command prompt:
