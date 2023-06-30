@@ -2,36 +2,36 @@
 This is the pacman game with a hueristic option to solve the game on auto.
 
 # start
-To start the game make sure you have python 3.6 and above then simply input the command 
+To initiate the game, ensure that you have Python 3.6 or a more recent version installed. Next, input the following command in the command prompt:
 
-python pacman.py 
+python pacman.py
 
-From the cmd at the pacman-hueristic-search folder.
-
+Ensure that you are executing this command from the "pacman-heuristic-search" folder in the command prompt.
 # use hueristic functions
 
-To use the hueristic function enter the following connamd:
+To utilize the heuristic function, enter the following command:
+
 python pacman.py -p ReflexAgent
 
-The reflex agent will get into action and solve the game using a hueristic function.
+Executing this command will activate the reflex agent, which will engage in solving the game by employing the heuristic function.
 
 # settings
-Setting the gournds, framerate and number of time the game runs.
+To configure additional settings for the game, you can use the following command line options:
 
--l --> will set the ground.
+-l: This option allows you to specify the desired ground or map for the game. To set the ground, navigate to the "layouts" folder and choose from the available options.
 
--n --> set the number of time to repeat.
+-n: Use this option to define the number of times the game will be repeated.
 
---freamerate --> will set the speed of the game (1 is normal, 0 is qiuck)
+--framerate: Adjust the speed of the game with this option. A value of 1 represents the normal speed, while 0 denotes a quicker pace.
 
--p --> hueristic function to be used 
+-p: Specify the heuristic function to be employed using this option.
 
--k --> number of ghosts
+-k: This option allows you to set the number of ghosts in the game.
 
-to set the ground (map) go to layouts and see the list of options there.
+By utilizing these command line options, you can customize the game according to your preferences.
 
 # AutoGrader
-Running the auto grader will run a test on the code given from the open university to test all the hueristic functions in the code in a quick run.
+By executing the auto grader, you can perform a comprehensive test on the provided code from the Open University. This test evaluates all the heuristic functions implemented in the code and is designed to run quickly for efficient assessment.
 
 
 
